@@ -1,0 +1,28 @@
+{
+  "name": "custom-backend",
+  "version": "0.0.0",
+  "description": "This backend Aapplication for frontend working. End Json Server and Faker.js using",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gnrbrhm/node-backend.git"
+  },
+  "keywords": [
+    "Node.js",
+    "Faker.js",
+    "Json-Server"
+  ],
+  "author": "gnrbrhm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gnrbrhm/node-backend/issues"
+  },
+  "homepage": "https://github.com/gnrbrhm/node-backend#readme",
+  "dependencies": {
+    "faker": "^5.5.3",
+    "json-server": "^0.16.3"
+  }
+}
