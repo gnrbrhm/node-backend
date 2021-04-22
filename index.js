@@ -1,5 +1,6 @@
 const faker = require("faker");
 const fs = require("fs");
+
 /* Generate Images */
 const generateImages = (number) => {
   const images = [];
