@@ -1,3 +1,3 @@
 #!/bin/bash
-node app.js
+node index.js
 json-server --watch db.json --port=3004
